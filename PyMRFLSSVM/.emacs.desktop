@@ -1,0 +1,105 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Sep 15 23:53:48 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22490 42988 535509 0) (desktop . "206") "spacegoing@LCs-MacBook-Pro.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-22-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "#b2b2b2") (background-color . "#292b2e") (line-spacing) (left-fringe . 13) (right-fringe . 13) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "DarkGoldenrod2") (environment) (persp) (powerline-cache) (frameset--id . "6FD3-5E62-54A2-F056") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "LCs-MacBook-Pro.local") (explicit-name) (tool-bar-position . top) (height . 41) (width . 145) (left . 4) (top . 26)) ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 100) (min-pixel-width . 260) (min-pixel-height-ignore . 75) (min-pixel-width-ignore . 104) (min-pixel-height-safe . 25) (min-pixel-width-safe . 52)) hc (pixel-width . 1911) (pixel-height . 1000) (total-width . 147) (total-height . 40) (normal-height . 1.0) (normal-width . 1.0) (combination-limit . t) (leaf (pixel-width . 962) (pixel-height . 1000) (total-width . 74) (total-height . 40) (normal-height . 1.0) (normal-width . 0.5034013605442177) (buffer "PyMRFLSSVM" (selected . t) (hscroll . 0) (fringes 13 13 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 992) (start . 1))) (leaf (last . t) (pixel-width . 949) (pixel-height . 1000) (total-width . 73) (total-height . 40) (normal-height . 1.0) (normal-width . 0.4965986394557823) (buffer "MRFLSVM" (selected) (hscroll . 0) (fringes 13 13 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 796) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq register-alist nil)
+(setq file-name-history '("~/initEnv" "~/macCodeLab-MBP2015/GitConfig/.spacemacs.mac" "~/.spacemacs" "~/macCodeLab-MBP2015/6442Projects/COMP6442_Assignment_1_2016/Wiki/wiki.md" "~/macCodeLab-MBP2015/6442Projects/COMP6442_Assignment_1_2016/Wiki/wiki.html" "~/macCodeLab-MBP2015/6442Projects/COMP6442_Assignment_1_2016/Wiki/UML_6442_Helenote.xmi" "~/macCodeLab-MBP2015/6442Projects/Udacity_Test/udacity_notes/lesson3.md" "~/macCodeLab-MBP2015/6442Projects/Udacity_Test/udacity_notes/lesson4.md" "~/macCodeLab-MBP2015/6442Projects/COMP6442_Assignment_1_2016/Helenote/.gitignore" "~/macCodeLab-MBP2015/6442Projects/Udacity_Test/udacity_notes/lesson5.md" "~/macCodeLab-MBP2015/6442Projects/Learning_Udacity.app/gradle.properties" "~/Downloads/Sunshine-Version-2-lesson_4_starter_code/data/WeatherContract.java" "~/macCodeLab-MBP2015/6442Projects/Udacity_Test/udacity_notes/lesson4.html" "~/macCodeLab-MBP2015/6442Projects/Udacity_Test/app/.gitignore" "~/macCodeLab-MBP2015/6442Projects/udacity_notes/lesson3.md" "~/macCodeLab-MBP2015/6442Projects/udacity_notes/lesson3.html" "~/macCodeLab-MBP2015/6442Projects/Udacity_Test/app/src/main/java/com/example/spacegoing/udacity_test/ForecastFragment.java" "~/macCodeLab-MBP2015/6442Projects/udacity_notes/lesson2.md" "~/macCodeLab-MBP2015/6442Projects/udacity_notes/lesson2.html" "~/macCodeLab-MBP2015/spacegoing.github.io/CSS/spacegoing.css" "~/macCodeLab-MBP2015/spacegoing.github.io/Pandoc_Header/programming_notes_header" "~/macCodeLab-MBP2015/PAMI14/latentnpcoref_v0.12/np_helper.cc" "~/macCodeLab-MBP2015/PAMI14/latentmotif_v0.12/svm_struct_latent_api.c" "~/懓賾度懺茟同懖綉盘/macANU/1stSemester2016/COMP6442/Labs & Assigments.png" "~/AllSymlinks/macANU/1stSemester2016/COMP6442/Labs & Assigments.png" "~/AllSymlinks/macANU/Summer School/Revise/Problems to work on.docx" "~/macCodeLab-MBP2015/PAMI14/Notes/makefile.md" "~/macCodeLab-MBP2015/DNTG/Paperworks/xSpaceLab懳鍛年懝鎽划懶麘言.md" "~/macCodeLab-MBP2015/DNTG/Paperworks/xSpaceLab懳鍛年懝鎽划懶麘言.html" "~/macCodeLab-MBP2015/PAMI14/Talk/Talk.html" "~/macCodeLab-MBP2015/PAMI14/Talk/Talk.md" "~/macCodeLab-MBP2015/PAMI14/Notes/makefile.html" "~/macCodeLab-MBP2015/DNTG/ANU.News/1_files/main-484e94b40e3e138a3159c37429e1bd8d.css" "~/macCodeLab-MBP2015/DNTG/ANU.News/zyrout.html" "~/macCodeLab-MBP2015/DNTG/ANU.News/map.html" "~/macCodeLab-MBP2015/6442Projects/Controllers/app/src/main/AndroidManifest.xml" "~/macCodeLab-MBP2015/6442Projects/lab_practice_android/app/src/main/AndroidManifest.xml" "~/macCodeLab-MBP2015/6442Projects/Lab3_Makefile/makefile" "~/macCodeLab-MBP2015/6442Projects/Lab3_Makefile/HelloWorld.java" "~/.emacs-bmk-bmenu-state.el" "~/macCodeLab-MBP2015/ECCV/Talk/Talk.html" "~/macCodeLab-MBP2015/ECCV/Talk/Talk.md" "~/Desktop/Screenshots" "~/macCodeLab-MBP2015/spacegoing.github.io/CSS/kevinburke-md-css.css" "~/macCodeLab-MBP2015/spacegoing.github.io/CSS/markdown6.css" "~/Downloads/QStrategy懯祽习懮鷳招懫笐：.tmp" "~/macCodeLab-MBP2015/ECCV/Notes/makefile.html" "~/macCodeLab-MBP2015/ECCV/Notes/makefile.md" "~/macCodeLab-MBP2015/ECCV/eccv-honours" "~/macCodeLab-MBP2015/6442Projects/Lab3_TextField/HelloWorld.java" "~/macCodeLab-MBP2015/6442Projects/Lab3_TextField/makefile" "~/AllSymlinks/macANU/1stSemester2016/COMP6442/Code/Sunshine-Version-2/build.gradle" "~/AllSymlinks/macANU/1stSemester2016/COMP6442/Code/Sunshine-Version-2/gradle.properties" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_struct_latent_cccp.c" "~/macCodeLab-MBP2015/ECCV/cython_version/setup.py" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/muc6-october.train" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/README.TXT" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/muc6-october.test" "~/macCodeLab-MBP2015/ECCV/latentssvm_v0.12/svm_struct_latent_api.c" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_struct_latent_api_types.h" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_struct_latent_api.c" "~/.gitignore" "~/.emacs.d/.gitignore" "~/macCodeLab-MBP2015/ECCV/pami2014-code/linEnvLearn.m" "~/macCodeLab-MBP2015/ECCV/pami2014-code/compareQPVariants.m" "/Applications/Emacs.app/Contents/Resources/lisp/progmodes/prog-mode.el.gz" "~/macCodeLab-MBP2015/ECCV/pami2014-code/pami2014.m" "/Applications/MATLAB_R2015b.app/bin/matlab" "~/macCodeLab-MBP2015/ECCV/latentssvm_v0.12/svm_struct_latent_classify.c" "~/macCodeLab-MBP2015/ECCV/latentssvm_v0.12/README.TXT" "~/macCodeLab-MBP2015/ECCV/latentssvm_v0.12/svm_struct_latent_api_types.h" "~/macCodeLab-MBP2015/ECCV/latentmotif_v0.12/svm_struct_latent_api_types.h" "~/macCodeLab-MBP2015/ECCV/latentmotif_v0.12/svm_struct_latent_api.c" "~/macCodeLab-MBP2015/ECCV/latentmotif_v0.12/SFMT-src-1.3.3/README.txt" "~/macCodeLab-MBP2015/DNTG/Scrapper/Chnaus/thread-210271-1-9.html" "~/macCodeLab-MBP2015/DNTG/Scrapper/Chnaus/thread-122873-1-2.html" "~/macCodeLab-MBP2015/DNTG/Scrapper/fake_browser.py" "~/macCodeLab-MBP2015/DNTG/Scrapper/Chnaus/懘髴家懞脩，懛繎子懟箲有懠笐间懨粦有懽鈶出懭，懘髴学懜綉近懗鰬租懀瑧两懢討室懼袘一懠鋺双懭藨间懀瑧绝懠褢好懛繎！懀！.html" "~/macCodeLab-MBP2015/DNTG/Scrapper/Chnaus/9.html" "~/macCodeLab-MBP2015/DNTG/Scrapper/Chnaus/2.html" "~/macCodeLab-MBP2015/DNTG/Scrapper/Chnaus/0.html" "~/macCodeLab-MBP2015/6442Projects/lab2_dup/lab2_practice.md" "~/macCodeLab-MBP2015/6442Projects/lab2_COMP6442/lab2_practice.md" "~/macCodeLab-MBP2015/6442Projects/lab2_COMP6442/lab2_practice.html" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/Makefile" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_struct_latent_api.h" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/np_helper.cc" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_struct_latent_classify.c" "~/macCodeLab-MBP2015/ECCV/latentmotif_v0.12/svm_struct_latent_classify.c" "~/AllSymlinks/macCodeLab/C++/tryClion/main.c" "~/懓賾度懺茟同懖綉盘/macCodeLab/C++/tryClion/main.cpp" "~/AllSymlinks/macCodeLab/C++/tryClion/main.cpp" "~/macCodeLab-MBP2015/ECCV/latentmotif_v0.12/svm_light/svm_common.c" "~/macCodeLab-MBP2015/ECCV/svm_light/svm_common.c" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_light/svm_common.c" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_light/svm_learn_main.c" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_coref_learn" "~/macCodeLab-MBP2015/ECCV/latentnpcoref_v0.12/svm_coref_classify" "~/macCodeLab-MBP2015/spacegoing.github.io/CSS/foghorn.css" "~/macCodeLab-MBP2015/ECCV/Notes/docr_project.html" "~/macCodeLab-MBP2015/ECCV/Notes/docr_project.md" "~/macCodeLab-MBP2015/GitConfig/.spacemacs" "~/macCodeLab-MBP2015/Config/.spacemacs" "~/macCodeLab-MBP2015/ECCV/.gitignore" "~/macNewCodeLab/ECCV/latentnpcoref_v0.12/README.TXT" "~/macNewCodeLab/ECCV/latentnpcoref_v0.12/svm_light/Makefile" "~/macNewCodeLab/ECCV/latentnpcoref_v0.12/Makefile" "~/macNewCodeLab/Config/GNUtoOSX" "~/macNewCodeLab/Config/OSXtoGNU" "~/macNewCodeLab/ECCV/Notes/makefile.html" "~/macNewCodeLab/ECCV/Notes/makefile.md" "~/.bash_profile" "~/macNewCodeLab/spacelabDocs/VSTS/fiveyearplan/General_Schedule/temp.org" "~/macNewCodeLab/spacelabDocs/VSTS/fiveyearplan/General_Schedule/markdown_mode_tutorial.html" "~/macNewCodeLab/spacelabDocs/VSTS/fiveyearplan/General_Schedule/markdown_mode_tutorial.md" "~/macNewCodeLab/spacelabDocs/VSTS/fiveyearplan/General_Schedule/markdown_style_template.html" "~/macNewCodeLab/spacelabDocs/VSTS/fiveyearplan/General_Schedule/markdown_style_template.md" "~/macNewCodeLab/HonoursProject/latentnpcoref_v0.12/svm_struct_latent_api_types.h" "~/macNewCodeLab/HonoursProject/latentssvm_v0.12/svm_struct_latent_api_types.h" "~/p" "~/AllSymlinks/initEnv" "~/.ssh/known_hosts" "~/AllSymlinks/macCodeLab/spaceLabDoc/orgFile/studyPlan.org"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  nil
+  "PyMRFLSSVM"
+  'dired-mode
+  '(override-global-mode which-key-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode undo-tree-mode volatile-highlights-mode projectile-mode helm-mode yas-minor-mode)
+  992
+  '(1 nil)
+  t
+  '("/Users/spacegoing/macCodeLab-MBP2015/Python/MRFLSVM/PyMRFLSSVM/")
+  '((indicate-empty-lines) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "MRFLSVM"
+  'dired-mode
+  '(override-global-mode which-key-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode undo-tree-mode volatile-highlights-mode projectile-mode helm-mode yas-minor-mode)
+  796
+  '(796 nil)
+  t
+  '("/Users/spacegoing/macCodeLab-MBP2015/Python/MRFLSVM/")
+  '((indicate-empty-lines) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "macCodeLab-MBP2015"
+  'dired-mode
+  '(override-global-mode which-key-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode undo-tree-mode volatile-highlights-mode projectile-mode helm-mode yas-minor-mode)
+  1108
+  '(1108 nil)
+  t
+  '("/Users/spacegoing/macCodeLab-MBP2015/")
+  '((indicate-empty-lines) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "Python"
+  'dired-mode
+  '(override-global-mode which-key-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode undo-tree-mode volatile-highlights-mode projectile-mode helm-mode yas-minor-mode)
+  676
+  '(676 nil)
+  t
+  '("/Users/spacegoing/macCodeLab-MBP2015/Python/")
+  '((indicate-empty-lines) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "spacegoing"
+  'dired-mode
+  '(override-global-mode which-key-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode undo-tree-mode volatile-highlights-mode projectile-mode helm-mode yas-minor-mode)
+  4707
+  '(1 nil)
+  t
+  '("/Users/spacegoing/")
+  '((indicate-empty-lines) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "AllSymlinks"
+  'dired-mode
+  '(override-global-mode which-key-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode undo-tree-mode volatile-highlights-mode projectile-mode helm-mode yas-minor-mode)
+  563
+  '(nil nil)
+  t
+  '("/Users/spacegoing/AllSymlinks/")
+  '((indicate-empty-lines) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "Downloads"
+  'dired-mode
+  '(override-global-mode which-key-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode undo-tree-mode volatile-highlights-mode projectile-mode helm-mode yas-minor-mode)
+  263
+  '(nil nil)
+  t
+  '("/Users/spacegoing/Downloads/")
+  '((indicate-empty-lines) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "Desktop"
+  'dired-mode
+  '(override-global-mode which-key-mode global-auto-revert-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode undo-tree-mode volatile-highlights-mode projectile-mode helm-mode yas-minor-mode)
+  260
+  '(260 nil)
+  t
+  '("/Users/spacegoing/Desktop/")
+  '((indicate-empty-lines) (overwrite-mode)))
+
